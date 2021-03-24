@@ -12,6 +12,7 @@ using namespace std;
 #include <stdio.h> 
 #include <io.h> 
 
+
 typedef struct LogFile
 {
 	char ProcessName[100];
